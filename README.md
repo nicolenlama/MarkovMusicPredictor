@@ -4,6 +4,7 @@ Web App that allows user to input music notes. Program learns the user's notes a
 ##Front-End
 * Clojure
 * ReFrame
+* JavaScript
 
 ##Back-End
 * Python
