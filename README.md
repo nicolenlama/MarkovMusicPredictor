@@ -1,20 +1,20 @@
 # MarkovMusicPredictor
 Web App that allows user to input music notes. Program learns the user's notes and will play a tune based on user's input. 
 
-##Front-End
+## Front-End
 * Clojure
 * ReFrame
 * JavaScript
 
-##Back-End
+## Back-End
 * Python
 * Java
 * Kafka
 * Kubernetes
 
-##Cloud
+## Cloud
 * AWS
 
-##Libraries
+## Libraries
 * Pedalboard (Spotify) 
 * SciPy
